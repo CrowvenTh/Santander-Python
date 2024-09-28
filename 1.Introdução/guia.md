@@ -8,7 +8,7 @@ Python foi projetado com o objetivo de ser uma linguagem fácil de ler e escreve
 concisa. Ao longo dos anos, evoluiu e ganhou popularidade até se tornar uma das linguagens de programação 
 mais utilizadas no mundo. 
 
-### *Caracteristicas*
+## *Caracteristicas*
 
 #### **Legibilidade**
     Python utiliza uma sintaxe clara e simples, o que facilita a leitura e compreensão do código. Utiliza indentação 
@@ -32,7 +32,7 @@ mais utilizadas no mundo.
 
 ### *Caracteristicas*
 
-#### Aplicações
+**Aplicações**
 
 Python é utilizado em uma ampla gama de aplicações e domínios, alguns exemplos são:
 
