@@ -1370,25 +1370,10 @@ A importação e criação de módulos e pacotes em Python nos permite organizar
 Lembre-se de explorar a biblioteca padrão de Python e aproveitar os módulos existentes, que podem facilitar muitas tarefas comuns. Além disso, não hesite em criar seus próprios módulos e pacotes para organizar e reutilizar seu código de maneira eficaz.
 
 </details>
-<details>
+
+<br>
 
 ---
-
-<summary> 🔹 Pacotes </summary>
-
-
-
-</details>
-<details>
-
----
-
-<summary> 🔹 Pacotes </summary>
-
-
-
-</details>
-
 
 <br>
 
